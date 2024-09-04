@@ -19,6 +19,8 @@ Shark attacks reported over the past 100 years, including location, activity, vi
 - Total Shark Attacks by Area
 - Filtered by Slicer - Time of Day
 
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWEzOGY0NzUtNTczMi00YjI2LThlYzEtNDgwYTc0Y2MwNGVjIiwidCI6IjZkNjgxOGU4LTJmYjctNDY3Zi04MzEyLTU3MmMwYWQ1Y2YzZCJ9)
+
 ## Final Dashboard
 <img width="617" alt="Shark Attacks Analysis" src="https://github.com/user-attachments/assets/00ebdde7-cc8c-4940-a494-2119f2565e3f">
 
